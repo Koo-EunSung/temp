@@ -13,7 +13,7 @@
 
 remote_theme: y7kim/agency-jekyll-theme
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "http://koo-eunsung.github.io/temp" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Your Awesome Website
